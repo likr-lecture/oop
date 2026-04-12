@@ -1,0 +1,19 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "日本大学 文理学部 情報科学科「オブジェクト指向プログラミング」の授業資料です。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "gitbook-plugin-codeblock-filename": "^0.0.9",
+    "honkit": "^6.1.7"
+  }
+}
