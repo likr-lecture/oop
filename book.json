@@ -1,3 +1,9 @@
 {
-  "plugins": ["codeblock-filename"]
+  "plugins": [
+    "codeblock-filename",
+    "back-to-top-button",
+    "copy-code-button",
+    "hide-published-with",
+    "intopic-toc"
+  ]
 }

@@ -13,7 +13,11 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
     "gitbook-plugin-codeblock-filename": "^0.0.9",
+    "gitbook-plugin-copy-code-button": "^0.0.2",
+    "gitbook-plugin-hide-published-with": "^0.0.1",
+    "gitbook-plugin-intopic-toc": "^1.1.1",
     "honkit": "^6.1.7"
   }
 }
