@@ -4,6 +4,7 @@
     "back-to-top-button",
     "copy-code-button",
     "hide-published-with",
-    "intopic-toc"
+    "intopic-toc",
+    "mermaid"
   ]
 }
