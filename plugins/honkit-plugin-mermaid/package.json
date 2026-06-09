@@ -1,0 +1,13 @@
+{
+  "name": "honkit-plugin-mermaid",
+  "version": "0.1.4",
+  "description": "Plugin for honkit mermaid, modified locally to avoid codeblock conflict",
+  "main": "index.js",
+  "engines": {
+    "honkit": ">=3.6.x",
+    "node": ">=14.x.x"
+  },
+  "dependencies": {
+    "mermaid": "^8.12.0"
+  }
+}
